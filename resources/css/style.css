@@ -28,3 +28,8 @@ p.cta {
 p.cta a {
   color: aquamarine;
 }
+
+footer {
+  text-align: right;
+  padding: 0 10px 0 0;
+}
